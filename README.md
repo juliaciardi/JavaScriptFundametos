@@ -11,15 +11,15 @@ O objetivo é consolidar os conceitos fundamentais da linguagem por meio de exem
 
 Ao concluir este projeto, o aluno será capaz de 
 
-Criar algoritmos utilizando JavaScript;
-Declarar e utilizar variáveis;
-Trabalhar com diferentes tipos de dados;
-Utilizar operadores aritméticos, relacionais e lógicos;
-Desenvolver as estruturaS condicionais;
-Utilizar estruturas de repetição;
-Manipular Arrays;
-Resolver problemas utilizando lógica de programação;
-Executar aplicações JavaScript utilizando o Node.js.
+- Criar algoritmos utilizando JavaScript;
+- Declarar e utilizar variáveis;
+- Trabalhar com diferentes tipos de dados;
+- Utilizar operadores aritméticos, relacionais e lógicos;
+- Desenvolver as estruturaS condicionais;
+- Utilizar estruturas de repetição;
+- Manipular Arrays;
+- Resolver problemas utilizando lógica de programação;
+- Executar aplicações JavaScript utilizando o Node.js.
 
 ## Conteúdo Desenvolvido
 
@@ -46,9 +46,9 @@ Executar aplicações JavaScript utilizando o Node.js.
 ===
 - != 
 - !===
-- // >
+- \ >
 - <
-- // >=
+- \ >=
 - <=
 
 ### Lógicos
@@ -61,3 +61,40 @@ Executar aplicações JavaScript utilizando o Node.js.
 - else
 - else if
 - switch
+### Arrays 
+
+- Criação
+- Acesso ao elementos
+- Alteração
+- Percorrendo arrays
+- Lenght
+- push()
+- pop()
+- shift()
+- unshift()
+- includer()
+
+## Tecnologias Utilizadas
+- JavaScript
+- Node.js
+- Visual Studio Code
+- Git
+- Github
+
+# Executando o Projeto
+
+### Clone o Projeto
+
+```bash
+    git clone url_do_github
+```
+```bash
+    cd JavaScriptFundamentos
+```
+```bash
+    node app.js
+```
+
+### Disciplina
+**Back-End com JavaScript (Node.js)**
+Professor: **Vitor Lima**
